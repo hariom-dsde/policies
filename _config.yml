@@ -1,3 +1,2 @@
-theme: jekyll-theme-cayman
+theme: minima
 markdown: kramdown
-footer: false
