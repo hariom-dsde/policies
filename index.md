@@ -1,8 +1,3 @@
----
-layout: default
-title: Privacy Policy – Penguin Slate
----
-
 ## **Privacy Policy for Penguin Slate**  
 
 **Effective Date:** [02-04-2025]  
@@ -18,4 +13,4 @@ We may update this policy from time to time. Any changes will be reflected on th
 
 ### **4. Contact Us**  
 If you have any questions about this Privacy Policy, you can contact us at:  
-📧 Email: **guptahariom355@gmail.com**
+📧 Email: **guptahariom355@gmail.com**  
